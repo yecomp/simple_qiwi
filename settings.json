@@ -4,7 +4,7 @@
     "admins": ["depols"],
     "notification": 410719021,
     "notif_settings": {
-        "checks": false,
+        "checks": true,
         "transactions": true
     },
     "check": "madoka"
