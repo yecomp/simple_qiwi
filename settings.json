@@ -3,5 +3,9 @@
     "percent": 0.032,
     "admins": ["depols"],
     "notification": 410719021,
+    "notif_settings": {
+        "checks": true,
+        "transactions": true,
+    },
     "check": "madoka"
 }
