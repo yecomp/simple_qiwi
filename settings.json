@@ -5,7 +5,8 @@
     "notification": 410719021,
     "notif_settings": {
         "checks": true,
-        "transactions": true
+        "transactions": true,
+        "new": true
     },
     "check": "madoka"
 }
