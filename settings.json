@@ -8,6 +8,6 @@
         "transactions": true,
         "new": true
     },
-    "check_limits": true,
+    "check_limits": false,
     "check": "madoka"
 }
